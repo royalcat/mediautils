@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "opt.h": "c",
+        "float.h": "c",
+        "display.h": "c",
+        "avformat.h": "c",
+        "file.h": "c",
+        "intreadwrite.h": "c",
+        "vips.h": "c"
+    }
+}
